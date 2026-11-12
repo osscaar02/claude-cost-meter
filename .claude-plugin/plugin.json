@@ -1,0 +1,1 @@
+{ "name": "cost-meter", "version": "0.1.0", "description": "Measured session cost, context fill and rate limits in a pane (/cost-meter), from the engine's own figures. No estimates.", "types": "./types/index.d.ts" }

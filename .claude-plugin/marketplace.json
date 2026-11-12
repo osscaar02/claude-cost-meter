@@ -1,0 +1,5 @@
+{
+  "name": "claude-cost-meter",
+  "owner": { "name": "Óscar Ojuel" },
+  "plugins": [{ "name": "cost-meter", "source": "./" }]
+}
